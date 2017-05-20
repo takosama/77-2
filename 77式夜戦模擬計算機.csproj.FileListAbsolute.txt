@@ -1,0 +1,14 @@
+c:\users\takos\documents\visual studio 2017\Projects\77式夜戦模擬計算機\77式夜戦模擬計算機\bin\Debug\77式夜戦模擬計算機.exe.config
+c:\users\takos\documents\visual studio 2017\Projects\77式夜戦模擬計算機\77式夜戦模擬計算機\bin\Debug\77式夜戦模擬計算機.exe
+c:\users\takos\documents\visual studio 2017\Projects\77式夜戦模擬計算機\77式夜戦模擬計算機\bin\Debug\77式夜戦模擬計算機.pdb
+c:\users\takos\documents\visual studio 2017\Projects\77式夜戦模擬計算機\77式夜戦模擬計算機\obj\Debug\77式夜戦模擬計算機.csprojResolveAssemblyReference.cache
+c:\users\takos\documents\visual studio 2017\Projects\77式夜戦模擬計算機\77式夜戦模擬計算機\obj\Debug\_77式夜戦模擬計算機.Properties.Resources.resources
+c:\users\takos\documents\visual studio 2017\Projects\77式夜戦模擬計算機\77式夜戦模擬計算機\obj\Debug\77式夜戦模擬計算機.csproj.GenerateResource.Cache
+c:\users\takos\documents\visual studio 2017\Projects\77式夜戦模擬計算機\77式夜戦模擬計算機\obj\Debug\77式夜戦模擬計算機.exe
+c:\users\takos\documents\visual studio 2017\Projects\77式夜戦模擬計算機\77式夜戦模擬計算機\obj\Debug\77式夜戦模擬計算機.pdb
+C:\Users\takos\documents\visual studio 2017\Projects\77式夜戦模擬計算機\77式夜戦模擬計算機\bin\Debug\Newtonsoft.Json.dll
+C:\Users\takos\documents\visual studio 2017\Projects\77式夜戦模擬計算機\77式夜戦模擬計算機\bin\Debug\Newtonsoft.Json.xml
+C:\Users\takos\Documents\Visual Studio 2017\Projects\77式夜戦模擬計算機\77式夜戦模擬計算機\obj\Debug\Form1.resources
+C:\Users\takos\Documents\Visual Studio 2017\Projects\77式夜戦模擬計算機\77式夜戦模擬計算機\obj\Debug\_77式夜戦模擬計算機.Buttle_Result.resources
+C:\Users\takos\Documents\Visual Studio 2017\Projects\77式夜戦模擬計算機\77式夜戦模擬計算機\obj\Debug\_77式夜戦模擬計算機.Form2.resources
+C:\Users\takos\Documents\Visual Studio 2017\Projects\77式夜戦模擬計算機\77式夜戦模擬計算機\bin\Debug\System.ValueTuple.dll
